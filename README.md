@@ -21,7 +21,8 @@
  
  <br>
  
- 
+ ![retro1645470058389](https://user-images.githubusercontent.com/127153172/229323061-5070bad6-a84a-4882-a1d8-64a6fc8c44e5.gif)
+
  
 <div> 
   <a href="https://www.instagram.com/joao_luiz_ou_algo_assim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
