@@ -1,8 +1,8 @@
 <div> 
  
   ## Bom dia, boa tarde e boa noite
-  estudando no curso de desenvolvimento de sistemas da escola profissionalizante Mario Alencar
- ## Sou João Luiz B. Morais
+  ## Sou João Luiz B. Morais ##
+ ## Estou no segundo ano do ensino médio estudando no curso de Desenvolvimento de Sistemas da Escola Profissionalizante Mario Alencar
  
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
