@@ -1,3 +1,17 @@
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 <div> 
  
   ## 👨‍💻 Desenvolvedor de Sistemas | Apaixonado por Transformar Ideias em Realidade 🚀
@@ -12,10 +26,10 @@ EEEP Mário Alencar - Desenvolvimento de Sistemas segundo ano do ensino médio 0
 
 ## 🚀 Habilidades Técnicas: <br>
 
-Linguagens de Programação: Html, Css, Javascript, Python
-Frameworks: Bootstrap (em andamento)
-Banco de Dados: MySQL
-DevOps: Docker
+Linguagens de Programação: Html, Css, Javascript, Python <br>
+Frameworks: Bootstrap (em andamento) <br>
+Banco de Dados: MySQL <br>
+DevOps: Docker <br>
 
 ## 💡 O que me motiva: <br>
 Minha jornada como desenvolvedor de sistemas é alimentada pela busca constante de aprendizado e pela resolução de desafios complexos. Acredito firmemente que a tecnologia tem o poder de melhorar vidas e impulsionar negócios. Estou sempre buscando novas maneiras de inovar e criar soluções que causem um impacto positivo.
@@ -26,22 +40,9 @@ Estou sempre aberto a novas oportunidades de colaboração, networking e aprendi
 📧 joaoluizborgesmorais@gmail.com <br>
 🌐  Portfólio em andamento <br>
 📲 (85) 992122-6979 <br>
-Linkedin: <br>
+ Linkedin: João Luiz Borges Morais <br>
+ Instagram: joao_luiz_b_morais
  
-  <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
