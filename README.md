@@ -17,19 +17,40 @@
   ## 👨‍💻 Desenvolvedor de Sistemas | Apaixonado por Transformar Ideias em Realidade 🚀
 
 🌐 Olá! Sou João Luiz Borges Morais, um desenvolvedor de sistemas com poucos anos de experiência na criação de soluções tecnológicas inovadoras. Minha paixão é transformar ideias em realidade através do poder da programação e da tecnologia.
+<div style="display: inline_block">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ </div>
+
+
+   ![retro1645470058389](https://user-images.githubusercontent.com/127153172/229323061-5070bad6-a84a-4882-a1d8-64a6fc8c44e5.gif)
 
 ## 💼 Experiência Profissional: <br>
 EEEP Mário Alencar - Desenvolvimento de Sistemas segundo ano do ensino médio 07/08/2022 - Atualmente
 
 -Cursando o ensino Médio na escola profissionalizante Mário Alencar.
--Estou na Equipe de professores do Projeto Social - Anjos da T.I. - desenvolvido pelo MA Soluções.
+-Estou na Equipe de professores do Projeto Social - Anjos da T.I. - desenvolvido pelo MA Soluções. <br>
+
+<div>
+   <a href="https://github.com/JLpensador">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JLpensador&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLpensador&layout=compact&langs_count=6&theme=merko"/>
+</div>
 
 ## 🚀 Habilidades Técnicas: <br>
 
 Linguagens de Programação: Html, Css, Javascript, Python <br>
 Frameworks: Bootstrap (em andamento) <br>
 Banco de Dados: MySQL <br>
-DevOps: Docker <br>
+DevOps: Docker <br> <br>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 💡 O que me motiva: <br>
 Minha jornada como desenvolvedor de sistemas é alimentada pela busca constante de aprendizado e pela resolução de desafios complexos. Acredito firmemente que a tecnologia tem o poder de melhorar vidas e impulsionar negócios. Estou sempre buscando novas maneiras de inovar e criar soluções que causem um impacto positivo.
@@ -41,7 +62,10 @@ Estou sempre aberto a novas oportunidades de colaboração, networking e aprendi
 🌐  Portfólio em andamento <br>
 📲 (85) 992122-6979 <br>
  Linkedin: João Luiz Borges Morais <br>
- Instagram: joao_luiz_b_morais
+ Instagram: joao_luiz_b_morais <br> <br>
+ <a href="https://www.instagram.com/joao_luiz_ou_algo_assim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaoluizborgesmorais@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joão-luiz-borges-morais-242751268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -50,7 +74,6 @@ Estou sempre aberto a novas oportunidades de colaboração, networking e aprendi
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
 
-   ![retro1645470058389](https://user-images.githubusercontent.com/127153172/229323061-5070bad6-a84a-4882-a1d8-64a6fc8c44e5.gif)
 </div>
   <a href="https://www.instagram.com/joao_luiz_ou_algo_assim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaoluizborgesmorais@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
