@@ -1,8 +1,32 @@
 <div> 
  
-  ## Bom dia, boa tarde e boa noite
-  ## Sou João Luiz B. Morais ##
- ## Estou no segundo ano do ensino médio estudando no curso de Desenvolvimento de Sistemas da Escola Profissionalizante Mario Alencar
+  ## 👨‍💻 Desenvolvedor de Sistemas | Apaixonado por Transformar Ideias em Realidade 🚀
+
+🌐 Olá! Sou João Luiz Borges Morais, um desenvolvedor de sistemas com poucos anos de experiência na criação de soluções tecnológicas inovadoras. Minha paixão é transformar ideias em realidade através do poder da programação e da tecnologia.
+
+## 💼 Experiência Profissional: <br>
+EEEP Mário Alencar - Desenvolvimento de Sistemas segundo ano do ensino médio 07/08/2022 - Atualmente
+
+-Cursando o ensino Médio na escola profissionalizante Mário Alencar.
+-Estou na Equipe de professores do Projeto Social - Anjos da T.I. - desenvolvido pelo MA Soluções.
+
+## 🚀 Habilidades Técnicas: <br>
+
+Linguagens de Programação: Html, Css, Javascript, Python
+Frameworks: Bootstrap (em andamento)
+Banco de Dados: MySQL
+DevOps: Docker
+
+## 💡 O que me motiva: <br>
+Minha jornada como desenvolvedor de sistemas é alimentada pela busca constante de aprendizado e pela resolução de desafios complexos. Acredito firmemente que a tecnologia tem o poder de melhorar vidas e impulsionar negócios. Estou sempre buscando novas maneiras de inovar e criar soluções que causem um impacto positivo.
+
+## 🤝 Contatos: <br>
+Estou sempre aberto a novas oportunidades de colaboração, networking e aprendizado. Se você compartilha minha paixão pela tecnologia ou está em busca de um parceiro de desenvolvimento confiável, não hesite em entrar em contato.
+
+📧 joaoluizborgesmorais@gmail.com <br>
+🌐  Portfólio em andamento <br>
+📲 (85) 992122-6979 <br>
+Linkedin: <br>
  
   <picture>
   <source
