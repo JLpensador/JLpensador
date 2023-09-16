@@ -1,3 +1,4 @@
+  ## 👨‍💻 Desenvolvedor de Sistemas | Apaixonado por Transformar Ideias em Realidade 🚀
  <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -14,9 +15,9 @@
 </picture>
 <div> 
  
-  ## 👨‍💻 Desenvolvedor de Sistemas | Apaixonado por Transformar Ideias em Realidade 🚀
 
-🌐 Olá! Sou João Luiz Borges Morais, um desenvolvedor de sistemas com poucos anos de experiência na criação de soluções tecnológicas inovadoras. Minha paixão é transformar ideias em realidade através do poder da programação e da tecnologia.
+## 🌐 Olá! Sou João Luiz Borges Morais <br>
+Um desenvolvedor de sistemas com poucos anos de experiência na criação de soluções tecnológicas inovadoras. Minha paixão é transformar ideias em realidade através do poder da programação e da tecnologia.
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
