@@ -61,7 +61,7 @@ Estou sempre aberto a novas oportunidades de colaboração, networking e aprendi
 
 📧 joaoluizborgesmorais@gmail.com <br>
 🌐  Portfólio em andamento <br>
-📲 (85) 992122-6979 <br>
+📲 (85) 99122-6979 <br>
  Linkedin: João Luiz Borges Morais <br>
  Instagram: joao_luiz_b_morais <br> <br>
  <a href="https://www.instagram.com/joao_luiz_ou_algo_assim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
