@@ -30,7 +30,7 @@
 ## 💼 Experiência Profissional: <br>
 EEEP Mário Alencar - Desenvolvimento de Sistemas segundo ano do ensino médio 07/08/2022 - Atualmente
 
--Cursando o ensino Médio na escola profissionalizante Mário Alencar.
+-Cursando o ensino Médio na escola profissionalizante Mário Alencar. <br>
 -Estou na Equipe de professores do Projeto Social - Anjos da T.I. - desenvolvido pelo MA Soluções. <br>
 
 <div>
