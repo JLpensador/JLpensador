@@ -18,13 +18,6 @@
 
 ## 🌐 Olá! Sou João Luiz Borges Morais <br>
 Um desenvolvedor de sistemas com poucos anos de experiência na criação de soluções tecnológicas inovadoras. Minha paixão é transformar ideias em realidade através do poder da programação e da tecnologia.
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- </div>
-
 
    ![retro1645470058389](https://user-images.githubusercontent.com/127153172/229323061-5070bad6-a84a-4882-a1d8-64a6fc8c44e5.gif)
 
@@ -43,7 +36,7 @@ EEEP Mário Alencar - Desenvolvimento de Sistemas segundo ano do ensino médio 0
 ## 🚀 Habilidades Técnicas: <br>
 
 Linguagens de Programação: Html, Css, Javascript, Python <br>
-Frameworks: Bootstrap (em andamento) <br>
+Frameworks: Bootstrap, Tailwind Css <br>
 Banco de Dados: MySQL <br>
 DevOps: Docker <br> <br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,6 +44,8 @@ DevOps: Docker <br> <br>
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 💡 O que me motiva: <br>
