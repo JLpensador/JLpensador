@@ -73,6 +73,7 @@ Estou sempre aberto a novas oportunidades de colaboração, networking e aprendi
 
 ![CertificadoDeConclusao_Fundamentos para Desenvolvimento de Software por Microsoft e LinkedIn](https://github.com/JLpensador/JLpensador/assets/127153172/6db2ff58-1c40-4ea8-9b6b-66158ee3a8ac)
 ![png](https://github.com/JLpensador/JLpensador/assets/127153172/1edb057a-4f68-40da-b425-3d92f28aa163)
+![AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20240224-29-blt91e](https://github.com/JLpensador/JLpensador/assets/127153172/b6e43c03-6017-4bdb-9545-b7e9717d7cef)
  ![Certificado_powerpoint_2016_básico(FB)](https://github.com/JLpensador/JLpensador/assets/127153172/f063af30-9e39-4fd1-b6f5-8803fcf5f77a)
 ![Certificado_fudamentos_de_ti(FB)](https://github.com/JLpensador/JLpensador/assets/127153172/23f9e1c0-ea00-4075-8c21-22a8c2478d7b)![excel](https://github.com/JLpensador/JLpensador/assets/127153172/04abc6e3-a71b-4ba9-98b0-1f829bdbb2ff)
 ![certificado](https://github.com/JLpensador/JLpensador/assets/127153172/3a7c4d3c-09e5-4d76-9413-5e4a193d37ab)
