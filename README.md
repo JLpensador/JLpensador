@@ -19,7 +19,6 @@
 ## 🌐 Olá! Sou João Luiz Borges Morais <br>
 Um desenvolvedor de sistemas com poucos anos de experiência na criação de soluções tecnológicas inovadoras. Minha paixão é transformar ideias em realidade através do poder da programação e da tecnologia.
 
-   ![retro1645470058389](https://user-images.githubusercontent.com/127153172/229323061-5070bad6-a84a-4882-a1d8-64a6fc8c44e5.gif)
 
 ## 💼 Experiência Profissional: <br>
 EEEP Mário Alencar -Primeira turma de Desenvolvimento de Sistemas 07/08/2022 - Atualmente
