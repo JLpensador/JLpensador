@@ -64,9 +64,9 @@ DevOps: Docker, Git<br> <br>
   <a href = "mailto:joaoluizborgesmorais@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-luiz-borges-morais-242751268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+![harvardcc50](https://github.com/JLpensador/JLpensador/assets/127153172/5a95ff4b-8642-4a82-9f04-4205ef7cb8ea)
 ![CertificadoDeConclusao_Fundamentos para Desenvolvimento de Software por Microsoft e LinkedIn](https://github.com/JLpensador/JLpensador/assets/127153172/6db2ff58-1c40-4ea8-9b6b-66158ee3a8ac)
 ![png](https://github.com/JLpensador/JLpensador/assets/127153172/1edb057a-4f68-40da-b425-3d92f28aa163)
-![b32d0bf6-8a48-417a-8aa6-72fc7135bbc2](https://github.com/JLpensador/JLpensador/assets/127153172/26e9c8e9-4b0d-49cd-a842-596492693fad)
 </div>
 <picture>
   <source
