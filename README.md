@@ -5,6 +5,8 @@
 </div>
 
    #
+
+   <img align="right" alt="" height="190px" src="./src/animesher.com_code-computer-html-197855.gif">
 <h3 align="left">Contatos:</h3>
 
  <a href="https://www.instagram.com/joao_luiz_ou_algo_assim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=054CA8&color:FFF" target="_blank"></a>
