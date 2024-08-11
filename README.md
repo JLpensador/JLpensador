@@ -6,6 +6,10 @@
 
    #
 
+   <p align="center">Estudande de Desenvolvimento de Sistemas na Escola Estadual de Educação Profissionalizante Mário Alencar. Minha jornada é alimentada pela busca constante de aprendizado e pela resolução de desafios complexos. Acredito firmemente que a tecnologia tem o poder de melhorar vidas e impulsionar negócios. Estou sempre buscando novas maneiras de inovar e criar soluções que causem um impacto positivo.
+  
+#
+
    <img align="right" alt="" height="190px" src="./src/animesher.com_code-computer-html-197855.gif">
 <h3 align="left">Contatos:</h3>
 
@@ -32,7 +36,7 @@
 
 <div style="text-align: center;" align="center">
    <a href="https://github.com/JLpensador">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JLpensador&show_icons=true&title_color=054CA8&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=56176&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JLpensador&show_icons=true&title_color=054CA8&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=56176&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLpensador&layout=compact&langs_count=6&title_color=054CA86&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=56176"/>
 </div>
       
