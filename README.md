@@ -9,7 +9,7 @@
    <p align="center">Estudante de Desenvolvimento de Sistemas na Escola Estadual de Educação Profissionalizante Mário Alencar. Minha jornada é alimentada pela busca constante de aprendizado e pela resolução de desafios complexos. Acredito firmemente que a tecnologia tem o poder de melhorar vidas e impulsionar negócios. Estou sempre buscando novas maneiras de inovar e criar soluções que causem um impacto positivo.
   
 #
-<div style="margin: 10px; max-width: 425px; flex-direction: column; flex: 2 1 300px;">
+<div style="margin: 10px; max-width: 350px; flex-direction: column; flex: 2 1 300px;">
    <img align="right" alt="" height="200px" src="./src/animesher.com_code-computer-html-197855.gif">
   <h3 align="left">Contatos:</h3>
   
