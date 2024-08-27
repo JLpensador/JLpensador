@@ -9,8 +9,8 @@
    <p align="center">Estudante de Desenvolvimento de Sistemas na Escola Estadual de Educação Profissionalizante Mário Alencar. Minha jornada é alimentada pela busca constante de aprendizado e pela resolução de desafios complexos. Acredito firmemente que a tecnologia tem o poder de melhorar vidas e impulsionar negócios. Estou sempre buscando novas maneiras de inovar e criar soluções que causem um impacto positivo.
   
 #
-<div style="min-width: 350px;">
    <img align="right" alt="" height="200px" src="./src/animesher.com_code-computer-html-197855.gif">
+<div style="min-width: 350px;">
   <h3 align="left">Contatos:</h3>
   
    <a href="https://www.instagram.com/joao_luiz_ou_algo_assim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=054CA8&color:FFF" target="_blank"></a>
