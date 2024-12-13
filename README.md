@@ -24,8 +24,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="30"/>
@@ -39,6 +41,8 @@
    <a href="https://github.com/JLpensador">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JLpensador&show_icons=true&title_color=054CA8&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=56176&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLpensador&layout=compact&langs_count=6&title_color=054CA86&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=56176"/>
+     
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JLpensador&repo=Portfolio&title_color=054CA8&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=56176)](https://portifolio-nu-ashy.vercel.app/home)
 </div>
       
    #
