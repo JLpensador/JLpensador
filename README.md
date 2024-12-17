@@ -41,8 +41,6 @@
    <a href="https://github.com/JLpensador">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JLpensador&show_icons=true&title_color=054CA8&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=56176&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLpensador&layout=compact&langs_count=6&title_color=054CA86&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=56176"/>
-     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JLpensador&repo=Portfolio&title_color=054CA8&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=56176)](https://portifolio-nu-ashy.vercel.app/home)
 </div>
       
    #
