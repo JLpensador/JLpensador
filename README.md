@@ -6,16 +6,17 @@
 
    #
 
-   <p align="center">Estudante de Desenvolvimento de Sistemas na Escola Estadual de Educação Profissionalizante Mário Alencar. Minha jornada é alimentada pela busca constante de aprendizado e pela resolução de desafios complexos. Acredito firmemente que a tecnologia tem o poder de melhorar vidas e impulsionar negócios. Estou sempre buscando novas maneiras de inovar e criar soluções que causem um impacto positivo.
+   <p align="center">Minha jornada é alimentada pela busca constante de aprendizado e pela resolução de desafios complexos. Acredito firmemente que a tecnologia tem o poder de melhorar vidas e impulsionar negócios. Estou sempre buscando novas maneiras de inovar e criar soluções que causem um impacto positivo.
   
 #
    <img align="right" alt="" height="200px" src="./src/animesher.com_code-computer-html-197855.gif">
 <div style="min-width: 350px;">
   <h3 align="left">Contatos:</h3>
-  
+
+  <a href = "mailto:joaoluizborgesmorais@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=054CA8&color:FFF" target="_blank"></a>
    <a href="https://www.instagram.com/joao_luiz_ou_algo_assim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=054CA8&color:FFF" target="_blank"></a>
-    <a href = "mailto:joaoluizborgesmorais@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=054CA8&color:FFF" target="_blank"></a>
     <a href="https://www.linkedin.com/in/joão-luiz-borges-morais-242751268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=054CA8&color:FFF" target="_blank"></a> 
+    <a href="https://portifolio-nu-ashy.vercel.app/home" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=054CA8&color:FFF" target="_blank"></a> 
 </div>  
 
   <h3 align="left">Habilidades:</h3>
@@ -27,7 +28,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="30"/>
