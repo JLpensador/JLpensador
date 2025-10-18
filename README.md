@@ -1,10 +1,9 @@
-<div align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=054CA8&center=true&vCenter=true&random=false&width=524&lines=Olá!+Sou+João+Luiz+Borges+Morais" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=054CA8&center=true&vCenter=true&random=false&width=524&lines=Olá!+Sou+João+Luiz+Borges+Morais" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
-   #
 
    <p align="center">Minha jornada é alimentada pela busca constante de aprendizado e pela resolução de desafios complexos. Acredito firmemente que a tecnologia tem o poder de melhorar vidas e impulsionar negócios. Estou sempre buscando novas maneiras de inovar e criar soluções que causem um impacto positivo.
   
