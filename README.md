@@ -5,8 +5,25 @@
 </p>
 
 
-   <p align="center">Minha jornada é alimentada pela busca constante de aprendizado e pela resolução de desafios complexos. Acredito firmemente que a tecnologia tem o poder de melhorar vidas e impulsionar negócios. Estou sempre buscando novas maneiras de inovar e criar soluções que causem um impacto positivo.
-  
+   <p align="center">Minha jornada é alimentada pela busca constante de aprendizado e pela resolução de desafios complexos. Acredito firmemente que a tecnologia tem o poder de melhorar vidas e impulsionar negócios. Sempre estou buscando novas maneiras de inovar e criar soluções que causem um impacto positivo.</p>
+
+---
+
+<h3>👋 Sobre mim </h3>
+
+**Técnico em Desenvolvimento de Sistemas** e **graduando em Engenharia de Software**. Apaixonado por tecnologia, música e por transformar ideias em realidade. Sempre explorando novas ferramentas e buscando ser **1% melhor a cada dia** nessa estrada da vida.
+
+Meu forte é **desenvolver aplicações web modernas e intuitivas**, com foco em performance, usabilidade e boas práticas.
+
+Tenho experiência na área como **Desenvolvedor Web** atuando em projetos com **Angular, TypeScript e integração de APIs**, desde o **front-end até o consumo de dados via HTTP**, desenvolvendo **aplicações modernas e responsivas**, com foco em **performance e experiência do usuário**.
+
+Possuo conhecimentos em **práticas DevOps**, utilizando **Git, GitHub, Docker e Vercel** para **versionamento, automação e deploy contínuo de projetos**.
+
+Tenho conhecimento em **Linux** com experiência em ambientes baseados em **Ubuntu/Debian e Arch**, utilizando terminal para **configuração, automação e desenvolvimento**, usando o sistema como **ambiente principal de desenvolvimento, com domínio de comandos e gerenciamento de pacotes**.
+
+Estou sempre em busca de desafios que me permitam evoluir como desenvolvedor e contribuir com soluções criativas.
+Acredito no poder do aprendizado contínuo, da colaboração e da curiosidade como pilares do crescimento profissional.
+
 #
    <img align="right" alt="" height="200px" src="./src/animesher.com_code-computer-html-197855.gif">
 <div style="min-width: 350px;">
